@@ -37,26 +37,3 @@ QuizApp is a **ReactJS-based** web application that allows users to take assessm
 git clone https://github.com/your-username/quizapp.git
 ```
 
-### 2️⃣ Navigate to the project folder:
-```sh
-cd quizapp
-```
-
-### 3️⃣ Install dependencies:
-```sh
-npm install
-```
-
-### 4️⃣ Start the development server:
-```sh
-npm start
-```
-
-## 🚀 Live Demo
-🔗 *[Deploy your app and add a link here]*
-
-## 📜 License
-This project is **free to use** and does not require a license.
-
----
-⭐ Feel free to contribute and enhance the project! ⭐
