@@ -21,11 +21,13 @@ The score is updated dynamically based on the correctness of the selected option
 Final Score:
 
 Once the user completes all questions, the application displays the final score out of the total number of questions.
+
 🛠️ Technologies Used
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
 ![Screenshot 2025-03-23 162200](https://github.com/user-attachments/assets/372b7b21-d1b9-44af-8d9f-9099edcfa186)
+
 
 
 
