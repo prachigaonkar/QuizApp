@@ -24,15 +24,12 @@ Once the user completes all questions, the application displays the final score 
 🛠️ Technologies Used
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
-
 CSS: For styling the application.
 ![Screenshot 2025-03-23 162200](https://github.com/user-attachments/assets/372b7b21-d1b9-44af-8d9f-9099edcfa186)
 
 
 
 📋 How to Run the Project
-
 Clone the repository:
- 
 git clone https://github.com/your-username/quizapp.git
 
